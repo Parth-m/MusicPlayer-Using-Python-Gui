@@ -250,9 +250,6 @@ def volume(x):
     #slider_label.config(text = current_volume * 100)
 
 
-
-
-
 #create Master frame
 master_frame = Frame(root)
 master_frame.pack(pady=20 )
